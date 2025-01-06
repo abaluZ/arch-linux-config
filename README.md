@@ -7,25 +7,14 @@ This is my personal arch linux setup
 
 ## Review of Arch
 
-<div align="center">
-  <img src="review/fastfetch.png" width="800px">
-  <img src="review/termWandB.png" width="800px">
-</div>
+![1](review/fastfetch.png)
+![10](review/termWandB.png)
+## Review of Arch
 
-<table>
-  <tr>
-    <td><img src="review/btop.png" width="100%"></td>
-    <td><img src="review/nvim.png" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="review/neofetch.png" width="100%"></td>
-    <td><img src="review/ranger.png" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="review/hyprlock.png" width="100%"></td>
-    <td><img src="review/neovim.png" width="100%"></td>
-  </tr>
-</table>
+| ![2](review/btop.png) | ![3](review/nvim.png) |
+|---|---|
+| ![4](review/neofetch.png) | ![5](review/ranger.png) |
+| ![6](review/) | ![7](review/neovim.png) |
 
 ## Table of Contents
 
