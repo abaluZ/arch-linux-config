@@ -14,7 +14,7 @@ This is my personal arch linux setup
 | ![2](review/btop.png) | ![3](review/nvim.png) |
 |---|---|
 | ![4](review/neofetch.png) | ![5](review/ranger.png) |
-| ![6](review/) | ![7](review/neovim.png) |
+| ![6](review/bochi.png) | ![7](review/neovim.png) |
 
 ## Table of Contents
 
