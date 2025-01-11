@@ -1,7 +1,7 @@
-# arch-linux-config
+# arch-linux-config 
 This is my personal arch linux setup
 
-#Dotfiles 
+# Dotfiles 
 
 **Dotfiles** is my configuration files for a Linux enviorment. This repository includes configurations for tools like hyprland, kitty, waybar, neovim and fastfetch.
 
@@ -16,5 +16,8 @@ This is my personal arch linux setup
 | ![4](review/neofetch.png) | ![5](review/ranger.png) |
 | ![6](review/bochi.png) | ![7](review/neovim.png) |
 
-## Table of Contents
+## Introduction
+**Introduction**: This configuration of arch-linux is a configutation that use **hyprland** like window gestor, **kitty** like a terminal, **neovim** like a editor of text and code personalized, **waybar** is a GTK status bar that can be customized, **zsh** like a principal bash, and **fastfetch** like CLI system information tool written in BASH, thats configuration is simple and easy to use.
+
+## Instalation
 
