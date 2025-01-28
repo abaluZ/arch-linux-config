@@ -22,4 +22,17 @@ This is my personal arch linux setup
 ## Instalation
 For the **installation**, the steps I followed were, at the end of installing arch linux, install git, hyprland, firefox, to be able to start the configuration, later, I started with bash, installing zsh and using it as the main bash.
 
+1. Desarcargar neovim, git, hyprland
 
+    ```bash
+    sudo pacman -S neovim git hyprland
+    ```
+2. Instalar zsh, para que sea nuestro bash principal
+    ```bash
+    sudo pacman -S zsh
+    ```
+
+
+## Pasos de Configuracion
+
+1. Configuramos el archivo .zshrc
