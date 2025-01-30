@@ -19,19 +19,33 @@ This is my personal arch linux setup
 ## Introduction
 **Introduction**: This configuration of arch-linux is a configutation that use **hyprland** like window gestor, **kitty** like a terminal, **neovim** like a editor of text and code personalized, **waybar** is a GTK status bar that can be customized, **zsh** like a principal bash, and **fastfetch** like CLI system information tool written in BASH, thats configuration is simple and easy to use.
 
-## Instalation
+## Installation
 For the **installation**, the steps I followed were, at the end of installing arch linux, install git, hyprland, firefox, to be able to start the configuration, later, I started with bash, installing zsh and using it as the main bash.
 
-1. Desarcargar neovim, git, hyprland
+1. Install neovim, git, hyprland
 
     ```bash
     sudo pacman -S neovim git hyprland
     ```
-2. Instalar zsh, para que sea nuestro bash principal
+2. Install zsh, para que sea nuestro bash principal
     ```bash
     sudo pacman -S zsh
     ```
+    if you can't install zsh, you can clone the repository from their github.
 
+3. Install Yay
+    ```bash
+    sudo pacman -S curl base base-devel --noconfirm
+    ```
+    Clone the yay github, and enter the folder yay
+    ```bash
+    cd yay
+    ```
+    ```bash
+    makepkg -si
+    ```
+4. Install Fonts
+    We'll use NerdFonts
 
 ## Pasos de Configuracion
 
