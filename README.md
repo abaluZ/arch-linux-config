@@ -44,9 +44,15 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     makepkg -si
     ```
-4. Install Fonts
-    We'll use NerdFonts
-
+4. Download NerdFonts
+    ```bash 
+    cd .local
+    ```
+    ```bash
+    cd share
+    ```
+    and unzip the downloaded file 
+    
 ## Pasos de Configuracion
 
 1. Configuramos el archivo .zshrc
