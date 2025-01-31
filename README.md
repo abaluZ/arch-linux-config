@@ -52,6 +52,10 @@ For the **installation**, the steps I followed were, at the end of installing ar
     cd share
     ```
     and unzip the downloaded file 
+5. Install Kitty
+    ```bash 
+    sudo pacman -S kitty
+    ```
     
 ## Pasos de Configuracion
 
