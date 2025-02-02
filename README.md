@@ -56,7 +56,12 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash 
     sudo pacman -S kitty
     ```
-    
+6. Install Waybar 
+    ```bash
+    sudo pacman -S 
+    ```
+7. Install Neofetch
+
 ## Pasos de Configuracion
 
 1. Configuramos el archivo .zshrc
