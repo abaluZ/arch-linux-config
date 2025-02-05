@@ -58,9 +58,12 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```
 6. Install Waybar 
     ```bash
-    sudo pacman -S 
+    sudo pacman -S waybar
     ```
 7. Install Neofetch
+    ```bash
+    sudo pacman -S neofetch
+    ```
 
 ## Pasos de Configuracion
 
