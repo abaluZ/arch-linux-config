@@ -64,6 +64,10 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     sudo pacman -S neofetch
     ```
+8. Install Fastfetch
+    ```bash
+    sudo pacman -S fastfetch
+    ```
 
 ## Pasos de Configuracion
 
