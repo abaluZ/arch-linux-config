@@ -68,7 +68,9 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     sudo pacman -S fastfetch
     ```
+9. Install 
+    ```bash
+    sudo pacman -S waybar
+    ```
 
-## Pasos de Configuracion
 
-1. Configuramos el archivo .zshrc
