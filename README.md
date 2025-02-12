@@ -68,9 +68,12 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     sudo pacman -S fastfetch
     ```
-9. Install 
+9. Install Waybar
     ```bash
     sudo pacman -S waybar
     ```
-
+10. Install Ranger 
+    ```bash 
+    sudo pacman -S ranger
+    ```
 
