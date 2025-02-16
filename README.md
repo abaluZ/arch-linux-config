@@ -76,4 +76,7 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash 
     sudo pacman -S ranger
     ```
-
+11. Install Sww
+    ```bash
+    sudo pacman -S sww
+    ```
