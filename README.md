@@ -80,3 +80,7 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     sudo pacman -S sww
     ```
+12. Install Audio
+    ```bash
+    sudo pacman -S pavucontrol
+    ```
