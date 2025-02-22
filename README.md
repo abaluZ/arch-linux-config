@@ -84,3 +84,6 @@ For the **installation**, the steps I followed were, at the end of installing ar
     ```bash
     sudo pacman -S pavucontrol
     ```
+##Configuration
+For the **configuration**, once we have installed everything, we will create files to customize our Linux environment.
+
