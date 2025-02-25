@@ -87,3 +87,4 @@ For the **installation**, the steps I followed were, at the end of installing ar
 ##Configuration
 For the **configuration**, once we have installed everything, we will create files to customize our Linux environment.
 
+1. Configuration for our zsh
