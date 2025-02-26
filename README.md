@@ -88,4 +88,4 @@ For the **installation**, the steps I followed were, at the end of installing ar
 For the **configuration**, once we have installed everything, we will create files to customize our Linux environment.
 
 1. Configuration for our zsh
-we need into to carpet '.zshrc', and copy
+To configure zsh, we must enter the .zshrc folder, this file is in the main directory, that is, simply use the command ls -la and you will be able to see it`
