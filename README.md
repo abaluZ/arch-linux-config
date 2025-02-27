@@ -89,3 +89,6 @@ For the **configuration**, once we have installed everything, we will create fil
 
 1. Configuration for our zsh
 To configure zsh, we must enter the .zshrc folder, this file is in the main directory, that is, simply use the command ls -la and you will be able to see it`
+
+2. Configuration for kitty
+To configurate kitty, we mus enter the carpet .config
