@@ -94,4 +94,6 @@ To configure zsh, we must enter the .zshrc folder, this file is in the main dire
 To configurate kitty, we mus enter the carpet .config
 
 3. Configuration for Waybar
-To config waybar, you go to carpet .config and enter the carpet waybar
+To config waybar, you go to carpet .config and enter the carpet waybar, 
+
+4. Keivi veizan full stack es tremendo wachero que no hace nada, dicen las malas lenguas
