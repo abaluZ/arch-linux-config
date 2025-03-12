@@ -95,5 +95,6 @@ To configurate kitty, we mus enter the carpet .config
 
 3. Configuration for Waybar
 To config waybar, you go to carpet .config and enter the carpet waybar, 
+After continue whit the configuration we need review if all is okey
 
-4. Keivi veizan full stack es tremendo wachero que no hace nada, dicen las malas lenguas
+4. Configration for 
