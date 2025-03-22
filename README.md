@@ -97,5 +97,5 @@ To configurate kitty, we mus enter the carpet .config
 To config waybar, you go to carpet .config and enter the carpet waybar, 
 After continue whit the configuration we need review if all is okey
 
-4. Configration for 
-Nose que mas decir aparte de nose que poner, estoy nervisoso y es de madrugada, no mamen
+4. Configration for Fastfetch
+This step is optional, fastfetch is a ....
