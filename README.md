@@ -98,4 +98,4 @@ To config waybar, you go to carpet .config and enter the carpet waybar,
 After continue whit the configuration we need review if all is okey
 
 4. Configration for Fastfetch
-This step is optional, fastfetch is a ....
+This step is optional, fastfetch is a tool that displays information about the operating system in an attractive and customizable way.
