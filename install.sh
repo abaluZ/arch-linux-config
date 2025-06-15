@@ -4,7 +4,19 @@
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
 NC='\033[0m' # No Color
+
+# Mostrar banner
+clear
+echo -e "${BLUE}"
+echo "╔════════════════════════════════════════════════════════════════════════════╗"
+echo "║                                                                            ║"
+echo "║                  CONFIGURACIÓN DE ARCH-LINUX DE ABALUZ                     ║"
+echo "║                                                                            ║"
+echo "╚════════════════════════════════════════════════════════════════════════════╝"
+echo -e "${NC}"
+echo
 
 # Función para imprimir mensajes
 print_message() {
